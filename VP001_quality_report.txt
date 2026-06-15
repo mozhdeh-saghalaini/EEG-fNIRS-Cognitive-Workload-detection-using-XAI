@@ -1,0 +1,10 @@
+Quality Report - VP001
+==================================================
+
+Total trials: 540
+Data shape: (540, 31, 601)
+Class distribution: {0: 180, 1: 180, 2: 180}
+Mean amplitude: 2.28e-06
+Std amplitude: 1.72e-05
+Signal power: 2.52e-09
+SNR: 24.0 dB
